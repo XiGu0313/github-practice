@@ -2,6 +2,7 @@
 
 Hello class
 Second Try!
+Yeah!
 Practice using Git &amp; Github
 
 * Fork a version of this repository to your Github account
